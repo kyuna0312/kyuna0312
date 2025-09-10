@@ -10,7 +10,7 @@
     <img width="32px" alt="YouTube" title="Subscribe on YouTube" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/amari_hana">
+  <a href="https://twitter.com/kyuna0312">
     <img width="32px" alt="Twitter" title="Follow on Twitter" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -18,7 +18,7 @@
     <img width="32px" alt="Discord" title="Join our Discord" src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" />
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/amarihana3.12/">
+  <a href="https://www.instagram.com/kyuna0312/">
     <img width="32px" alt="Instagram" title="Follow on Instagram" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
   </a>
 </p>
@@ -52,13 +52,13 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=amarihana&bg_color=ffc0cb&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p> -->
 
-<img id="fatalperfil" src="https://github-stats-alpha.vercel.app/api/?username=amarihana&cc=141321&tc=FF1493&ic=9c6bff&bc=ffffff"/>
+<img id="fatalperfil" src="https://github-stats-alpha.vercel.app/api/?username=kyuna0312&cc=141321&tc=FF1493&ic=9c6bff&bc=ffffff"/>
 
-![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=amarihana&theme=radical&include_all_commits=true&count_private=true)
+![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=kyuna0312&theme=radical&include_all_commits=true&count_private=true)
 
-![LachlanDev github streak](https://github-readme-stats.vercel.app/api/top-langs/?username=amarihana&layout=compact&theme=radical&bg_color=0d1117)
+![LachlanDev github streak](https://github-readme-stats.vercel.app/api/top-langs/?username=kyuna0312&layout=compact&theme=radical&bg_color=0d1117)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=amarihana&theme=radical&margin-w=2&margin-h=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kyuna0312&theme=radical&margin-w=2&margin-h=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
