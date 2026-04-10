@@ -83,8 +83,6 @@ Solo dev · OSS · **AI comic pipelines** · **YouTube** — shipping UIs, APIs,
 
 <p align="center">
   <a href="https://github.com/kyuna0312/kyuna_web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kyuna0312&amp;repo=kyuna_web&amp;bg_color=0d1117&amp;title_color=3fb950&amp;text_color=c9d1d9&amp;icon_color=3fb950&amp;border_color=30363d" alt="kyuna_web" /></a>
-  &#8287;&#8287;
-  <a href="https://github.com/kyuna0312/mongol-beauty"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kyuna0312&amp;repo=mongol-beauty&amp;bg_color=0d1117&amp;title_color=3fb950&amp;text_color=c9d1d9&amp;icon_color=3fb950&amp;border_color=30363d" alt="mongol-beauty" /></a>
 </p>
 <p align="center">
   <a href="https://github.com/kyuna0312/dotfiles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kyuna0312&amp;repo=dotfiles&amp;bg_color=0d1117&amp;title_color=3fb950&amp;text_color=c9d1d9&amp;icon_color=3fb950&amp;border_color=30363d" alt="dotfiles" /></a>
