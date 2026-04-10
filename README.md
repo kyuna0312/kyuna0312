@@ -89,7 +89,7 @@ If you’re a **recruiter**: start with [my site](https://kyuna-web.vercel.app/)
   <a href="https://github.com/kyuna0312/InariWrite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kyuna0312&amp;repo=InariWrite&amp;theme=radical&amp;bg_color=0d1117&amp;title_color=F78FB3&amp;icon_color=E056FD" alt="InariWrite — markdown editor" /></a>
 </p>
 
-<sub align="center">Mirror your **profile pins** to these four, or swap in `LogicNomad`, `backend_template`, `NyanVim`, or `kyunaos` as they mature.</sub>
+<p align="center"><sub>Mirror your <strong>profile pins</strong> to these four, or swap in <code>LogicNomad</code>, <code>backend_template</code>, <code>NyanVim</code>, or <code>kyunaos</code> as they mature.</sub></p>
 
 ---
 
