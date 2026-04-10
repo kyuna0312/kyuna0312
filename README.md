@@ -1,67 +1,58 @@
+<div align="center">
+
 <a href="https://discord.gg/shiba">
-  <img src="img/IMG_7511.JPG" width="100%" height="auto" alt="Cosplay Community Banner"/>
+  <img src="img/IMG_7511.JPG" width="100%" alt="Cosplay community banner" />
 </a>
-<p align="center">
-  🌸 **Welcome to my world of creativity!** 🌸
-</p>
 
-<p align="center">
-  <a href="https://www.youtube.com/@amarihana">
-    <img width="32px" alt="YouTube" title="Subscribe on YouTube" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/kyuna0312">
-    <img width="32px" alt="Twitter" title="Follow on Twitter" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.com/channels/896373208670933053/896373209585319947" alt="Join the Cosplay Community">
-    <img width="32px" alt="Discord" title="Join our Discord" src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" />
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/kyuna0312/">
-    <img width="32px" alt="Instagram" title="Follow on Instagram" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
-  </a>
-</p>
+### Welcome to my world of creativity
 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@amarihana)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/kyuna0312)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/shiba)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kyuna0312/)
 
-<p align="center">
-✨ **Join me on my journey of cosplay, coding, and creativity!** ✨
-</p>
+### Join me on my journey of cosplay, coding, and creativity
 
-<h1 align="center">🌸 Cosplayer | Anime Enthusiast | Developer 💻</h1>
+# Cosplayer · Anime enthusiast · Developer
 
-<p align="center">
-  🗣 **EN | 日本語 |**
-</p>
+**EN** · **日本語**
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&pause=1000&color=FF69B4&width=1000&lines=✨+毒殺者の接吻には礼をくれたのはおまいくらいだ+🌸" alt="Typing SVG" /></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Pacifico&size=30&pause=1000&color=FF69B4&width=1000&lines=%E2%9C%A8+%E6%AF%92%E6%AE%BA%E8%80%85%E3%81%AE%E6%8E%A5%E5%90%BB%E3%81%AB%E3%81%AF%E7%A4%BC%E3%82%92%E3%81%8F%E3%82%8C%E3%81%9F%E3%81%AE%E3%81%AF%E3%81%8A%E3%81%BE%E3%81%84%E3%81%8F%E3%82%89%E3%81%84%E3%81%A0+%F0%9F%8C%B8" alt="Animated typing quote" />
+</a>
 
----
-### 🌸 About Me
-- 🐧 **Linux Enthusiast**: Exploring the open-source world and enjoying the power of Linux.
-- 👘 **Cosplayer**: Sharing my passion for cosplay and creativity.
-- 💻 **Developer**: Building projects with code and imagination.
-- ✨ **Anime Enthusiast**: Inspired by anime culture and storytelling.
-- 🌷 **Dreamer**: Believing in the magic of creativity and connection.
-
+</div>
 
 ---
 
-### 📊 GitHub Stats
-<!-- <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=amarihana&bg_color=ffc0cb&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</p> -->
+### About me
 
-<img id="fatalperfil" src="https://github-stats-alpha.vercel.app/api/?username=kyuna0312&cc=141321&tc=FF1493&ic=9c6bff&bc=ffffff"/>
-
-![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=kyuna0312&theme=radical&include_all_commits=true&count_private=true)
-
-![LachlanDev github streak](https://github-readme-stats.vercel.app/api/top-langs/?username=kyuna0312&layout=compact&theme=radical&bg_color=0d1117)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kyuna0312&theme=radical&margin-w=2&margin-h=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+- **Linux** — daily driver; open source and tooling
+- **Cosplay** — builds, shoots, community ([Discord](https://discord.gg/shiba))
+- **Code** — side projects and experiments
+- **Anime** — stories and aesthetics that inspire work and craft
 
 ---
 
+### GitHub stats
+
 <p align="center">
-  <img src="https://view.moezx.cc/images/2021/02/25/7217294a8cb992d37eceeb8f5a01d100.gif" height="60" align="right"/>
+  <img src="https://github-stats-alpha.vercel.app/api/?username=kyuna0312&amp;cc=141321&amp;tc=FF1493&amp;ic=9c6bff&amp;bc=ffffff" alt="Kyuna0312 GitHub summary card" />
 </p>
+
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com/?user=kyuna0312&amp;theme=radical&amp;include_all_commits=true&amp;count_private=true" alt="Contribution streak" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyuna0312&amp;layout=compact&amp;theme=radical&amp;bg_color=0d1117" alt="Top languages" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kyuna0312&amp;theme=radical&amp;margin-w=2&amp;margin-h=2&amp;column=4" alt="GitHub profile trophies" />
+  </a>
+</p>
+
+---
+
+<div align="right">
+  <img src="https://view.moezx.cc/images/2021/02/25/7217294a8cb992d37eceeb8f5a01d100.gif" height="60" alt="" />
+</div>

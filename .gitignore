@@ -1,0 +1,8 @@
+.DS_Store
+**/.DS_Store
+
+# JetBrains / IntelliJ
+.idea/
+
+# Local theme/plugin bundles (not needed for profile README)
+conf/
