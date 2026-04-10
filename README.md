@@ -1,7 +1,7 @@
 <div align="center">
 
-<a href="https://discord.gg/shiba">
-  <img src="img/IMG_7511.JPG" width="100%" alt="Cosplay community banner" />
+<a href="https://kyuna-web.vercel.app/">
+  <img src="img/IMG_7511.JPG" width="100%" alt="Kyuna — portfolio and homepage (kyuna-web.vercel.app)" />
 </a>
 
 ### Kyuna0312 · developer–creator
