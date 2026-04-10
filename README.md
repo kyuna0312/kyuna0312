@@ -6,12 +6,16 @@
 
 <pre align="center">
 ┌────────────────────────────────────────────────────────┐
-│  kyuna0312@github:~$ ./welcome --tty                   │
-│  Kyuna · engineer · open source · AI comics · YT       │
+│                      /\       /\                       │
+│                      (  ^ w ^  )                       │
+│                        \_____/                         │
+│          kyuna0312@github:~$ ./welcome --tty           │
+│      Kyuna · engineer · OSS · AI comics · YouTube      │
+│           * kitsune · fox girl · terminal *            │
 └────────────────────────────────────────────────────────┘
 </pre>
 
-<sub><code>shell</code> · <code>zsh</code> · <code>linux</code> · <code>git</code> · creative pipelines in public</sub>
+<sub>README uses <strong>GitHub-native</strong> markdown/HTML + image widgets only. Typing banner: <strong>Fira Code</strong> (Google Fonts — same family as many <a href="https://www.nerdfonts.com/">Nerd Fonts</a> stacks; SVG cannot load patched glyphs). In your terminal: <code>Hack Nerd Font</code> or <code>JetBrainsMono Nerd Font</code>. · <code>zsh</code> · <code>linux</code></sub>
 
 <br/>
 
@@ -34,7 +38,7 @@
 <br/>
 
 <a href="https://github.com/kyuna0312">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=850&color=39FF14&background=0D1117&center=true&vCenter=true&multiline=true&width=920&height=112&lines=open+source+%C2%B7+full-stack+%C2%B7+systems;AI+comics+%2B+creative+tooling;youtube+%40amarihana+%C2%B7+github+%40kyuna0312" alt="Terminal-style rotating taglines" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=850&color=39FF14&background=0D1117&center=true&vCenter=true&multiline=true&width=920&height=112&lines=open+source+%C2%B7+full-stack+%C2%B7+systems;AI+comics+%2B+creative+tooling;youtube+%40amarihana+%C2%B7+github+%40kyuna0312" alt="Terminal-style rotating taglines (Fira Code)" />
 </a>
 
 </div>
