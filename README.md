@@ -10,15 +10,15 @@
 
 コスプレ、コミュニティ、そしてコード。Linux を土台に、物語とビジュアルから着想してつくっています。
 
-<sub>YouTube is **[@amarihana](https://www.youtube.com/@amarihana)** · everywhere else I’m **[@kyuna0312](https://github.com/kyuna0312)**</sub>
+<sub>**YouTube** → [@amarihana](https://www.youtube.com/@amarihana) · **X · Instagram · Discord** → **kyuna0312** · **Code** → [@kyuna0312](https://github.com/kyuna0312) on GitHub</sub>
 
 [![YouTube](https://img.shields.io/badge/YouTube-@amarihana-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@amarihana)
-[![X](https://img.shields.io/badge/X-@kyuna0312-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/kyuna0312)
-[![Discord](https://img.shields.io/badge/Cosplay%20community-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/shiba)
-[![Instagram](https://img.shields.io/badge/Instagram-@kyuna0312-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kyuna0312/)
-[![Site](https://img.shields.io/badge/Site-amane312.vercel.app-9c6bff?style=for-the-badge&logo=vercel&logoColor=white)](https://amane312.vercel.app)
+[![X](https://img.shields.io/badge/X-kyuna0312-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kyuna0312)
+[![Discord](https://img.shields.io/badge/Discord-kyuna0312-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/shiba)
+[![Instagram](https://img.shields.io/badge/Instagram-kyuna0312-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kyuna0312/)
+[![Site](https://img.shields.io/badge/Site-kyuna--web.vercel.app-9c6bff?style=for-the-badge&logo=vercel&logoColor=white)](https://kyuna-web.vercel.app/)
 
-<sub>**Watch** → long-form and logs on [**YouTube**](https://www.youtube.com/@amarihana) · **Hang out** → cosplay community on [**Discord**](https://discord.gg/shiba)</sub>
+<sub>**Watch** → long-form and logs on [**YouTube**](https://www.youtube.com/@amarihana) · **Hang out** → [**Discord**](https://discord.gg/shiba) (kyuna0312 · cosplay community)</sub>
 
 # Cosplayer · Anime · Developer
 
@@ -36,7 +36,7 @@
 
 | Pillar | In practice |
 |--------|-------------|
-| **Craft** | Cosplay builds, shoots, and a community home on [Discord](https://discord.gg/shiba) |
+| **Craft** | Cosplay builds, shoots, and community on [Discord](https://discord.gg/shiba) (**kyuna0312**) |
 | **Systems** | Linux daily driver; tooling, backends, and small apps that support how I work |
 | **Story** | Anime and narrative as reference for aesthetic and direction—not decoration, but brief |
 
