@@ -4,20 +4,25 @@
   <img src="img/IMG_7511.JPG" width="100%" alt="Cosplay community banner" />
 </a>
 
-### Welcome to my world of creativity
+### Kyuna0312 · developer–creator
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@amarihana)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/kyuna0312)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/shiba)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kyuna0312/)
+**I make costumes, communities, and software—Linux-first, story-driven.**
 
-### Join me on my journey of cosplay, coding, and creativity
+コスプレ・コミュニティ・コード。Linux を軸に、物語と美学から着想を得てつくる。
 
-# Cosplayer · Anime enthusiast · Developer
+<sub>YouTube is **[@amarihana](https://www.youtube.com/@amarihana)** · everywhere else I’m **[@kyuna0312](https://github.com/kyuna0312)**</sub>
+
+[![YouTube](https://img.shields.io/badge/YouTube-@amarihana-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@amarihana)
+[![X](https://img.shields.io/badge/X-@kyuna0312-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/kyuna0312)
+[![Discord](https://img.shields.io/badge/Cosplay%20community-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/shiba)
+[![Instagram](https://img.shields.io/badge/Instagram-@kyuna0312-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kyuna0312/)
+[![Site](https://img.shields.io/badge/Site-amane312.vercel.app-9c6bff?style=for-the-badge&logo=vercel&logoColor=white)](https://amane312.vercel.app)
+
+# Cosplayer · Anime · Developer
 
 **EN** · **日本語**
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
+<a href="https://github.com/kyuna0312">
   <img src="https://readme-typing-svg.demolab.com/?font=Pacifico&size=30&pause=1000&color=FF69B4&width=1000&lines=%E2%9C%A8+%E6%AF%92%E6%AE%BA%E8%80%85%E3%81%AE%E6%8E%A5%E5%90%BB%E3%81%AB%E3%81%AF%E7%A4%BC%E3%82%92%E3%81%8F%E3%82%8C%E3%81%9F%E3%81%AE%E3%81%AF%E3%81%8A%E3%81%BE%E3%81%84%E3%81%8F%E3%82%89%E3%81%84%E3%81%A0+%F0%9F%8C%B8" alt="Animated typing quote" />
 </a>
 
@@ -25,12 +30,33 @@
 
 ---
 
-### About me
+### What I focus on
 
-- **Linux** — daily driver; open source and tooling
-- **Cosplay** — builds, shoots, community ([Discord](https://discord.gg/shiba))
-- **Code** — side projects and experiments
-- **Anime** — stories and aesthetics that inspire work and craft
+| Pillar | In practice |
+|--------|-------------|
+| **Craft** | Cosplay builds, shoots, and a community home on [Discord](https://discord.gg/shiba) |
+| **Systems** | Linux daily driver; tooling, backends, and small apps that support how I work |
+| **Story** | Anime and narrative as reference for aesthetic and direction—not decoration, but brief |
+
+---
+
+### About
+
+- **Brand in one line:** maker at the intersection of **performance (cosplay)**, **community**, and **code**.
+- **Languages:** English for reach, Japanese for depth—same voice, two audiences.
+- **Proof over labels:** pinned repos and video are where the work should show; this file is the map, not the museum.
+
+---
+
+### Featured repositories
+
+<p align="center">
+  <a href="https://github.com/kyuna0312/mongol-beauty"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kyuna0312&amp;repo=mongol-beauty&amp;theme=radical&amp;bg_color=0d1117" alt="mongol-beauty repository" /></a>
+  &#8287;&#8287;
+  <a href="https://github.com/kyuna0312/backend_template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kyuna0312&amp;repo=backend_template&amp;theme=radical&amp;bg_color=0d1117" alt="backend_template repository" /></a>
+</p>
+
+<p align="center"><sub>Pin more repos on your GitHub profile to rotate highlights; swap names here anytime.</sub></p>
 
 ---
 
