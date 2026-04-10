@@ -56,7 +56,8 @@
   <a href="https://github.com/kyuna0312/mongol-beauty"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kyuna0312&amp;repo=mongol-beauty&amp;theme=radical&amp;bg_color=0d1117" alt="mongol-beauty repository" /></a>
   &#8287;&#8287;
   <a href="https://github.com/kyuna0312/backend_template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kyuna0312&amp;repo=backend_template&amp;theme=radical&amp;bg_color=0d1117" alt="backend_template repository" /></a>
-  &#8287;&#8287;
+</p>
+<p align="center">
   <a href="https://github.com/kyuna0312/kyuna_web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kyuna0312&amp;repo=kyuna_web&amp;theme=radical&amp;bg_color=0d1117" alt="kyuna_web repository" /></a>
 </p>
 
