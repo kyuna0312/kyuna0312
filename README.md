@@ -8,7 +8,7 @@
 
 **I make costumes, communities, and software—Linux-first, story-driven.**
 
-コスプレ・コミュニティ・コード。Linux を軸に、物語と美学から着想を得てつくる。
+コスプレ、コミュニティ、そしてコード。Linux を土台に、物語とビジュアルから着想してつくっています。
 
 <sub>YouTube is **[@amarihana](https://www.youtube.com/@amarihana)** · everywhere else I’m **[@kyuna0312](https://github.com/kyuna0312)**</sub>
 
@@ -17,6 +17,8 @@
 [![Discord](https://img.shields.io/badge/Cosplay%20community-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/shiba)
 [![Instagram](https://img.shields.io/badge/Instagram-@kyuna0312-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kyuna0312/)
 [![Site](https://img.shields.io/badge/Site-amane312.vercel.app-9c6bff?style=for-the-badge&logo=vercel&logoColor=white)](https://amane312.vercel.app)
+
+<sub>**Watch** → long-form and logs on [**YouTube**](https://www.youtube.com/@amarihana) · **Hang out** → cosplay community on [**Discord**](https://discord.gg/shiba)</sub>
 
 # Cosplayer · Anime · Developer
 
@@ -54,9 +56,11 @@
   <a href="https://github.com/kyuna0312/mongol-beauty"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kyuna0312&amp;repo=mongol-beauty&amp;theme=radical&amp;bg_color=0d1117" alt="mongol-beauty repository" /></a>
   &#8287;&#8287;
   <a href="https://github.com/kyuna0312/backend_template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kyuna0312&amp;repo=backend_template&amp;theme=radical&amp;bg_color=0d1117" alt="backend_template repository" /></a>
+  &#8287;&#8287;
+  <a href="https://github.com/kyuna0312/kyuna_web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kyuna0312&amp;repo=kyuna_web&amp;theme=radical&amp;bg_color=0d1117" alt="kyuna_web repository" /></a>
 </p>
 
-<p align="center"><sub>Pin more repos on your GitHub profile to rotate highlights; swap names here anytime.</sub></p>
+<p align="center"><sub>Pin these (or others) on your GitHub profile and edit repo names here when you rotate highlights.</sub></p>
 
 ---
 
