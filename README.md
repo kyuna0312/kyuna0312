@@ -53,7 +53,7 @@ Solo dev · OSS · **AI comic pipelines** · **YouTube** — shipping UIs, APIs,
 
 `locales:` **EN** · **日本語** · **MN** (when it matters)
 
-`links:` YouTube [@amarihana](https://www.youtube.com/@amarihana) · X/IG/Discord **`kyuna0312`** · site [kyuna-web.vercel.app](https://kyuna-web.vercel.app/) · code [@kyuna0312](https://github.com/kyuna0312)
+`links:` X/IG/Discord **`kyuna0312`** · site [kyuna-web.vercel.app](https://kyuna-web.vercel.app/) · code [@kyuna0312](https://github.com/kyuna0312)
 
 ---
 
