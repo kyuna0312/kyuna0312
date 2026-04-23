@@ -5,22 +5,23 @@
 </a>
 
 <pre>
-╔══════════════════════════════════════════════════════════════╗
-║  ✧･ﾟ: *✧･ﾟ:*  KITSUNE MODE ACTIVATED  *:･ﾟ✧*:･ﾟ✧           ║
-╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║  ✧･ﾟ: *✧･ﾟ:*  QUEEN OF NIGHT MODE  *:･ﾟ✧*:･ﾟ✧                   ║
+╚══════════════════════════════════════════════════════════════════╝
 
       ∧＿∧
-     (｡>ω<｡)ﾉﾞ
+     (｡･ω･)ﾉﾞ
     / 🎀  🎀 \
     |  fox girl  |
      \_________/
-     
-  「 code · cosplay · chaos 」
-  
-  kyuna0312@github:~$ ./welcome --cosplay-mode
-  
-  ⚔️  cosplayer  ·  OSS dev  ·  AI comics  ·  YouTube  ⚔️
-  🦊  kitsune  ·  fox girl  · 中日蒙  ·  weeb coder  🦊
+
+   「 code · cosplay · chaos 」
+
+   ...Did you summon me?
+   Onee-san has arrived. ✦
+
+   ⚔️  cosplayer  ·  OSS dev  ·  AI comics  ·  YouTube  ⚔️
+   🦊  kitsune  ·  fox girl  · 中日蒙  ·  weeb coder  🦊
 
 ╰─────────────────────────────────────────────────────────────╯
 </pre>
@@ -55,27 +56,30 @@
 
 ---
 
-## ✧ About Me
+## ✧ Profile Card
 
 ```
-   ╭───────────────────────────────────────────╮
-   │  ☽ 角色的  PROFILE  カード  ♡            │
-   ╰───────────────────────────────────────────╯
+   ╭─────────────────────────────────────────────╮
+   │  ☽  MAGICAL  PROFILE  カード  ♡              │
+   ╰─────────────────────────────────────────────╯
 ```
 
-**Cosplayer + OSS dev** — costumes and commits in the same timeline.  
-Shipping UIs, APIs, and low-level toys; building fox girl looks and **AI comic pipelines** on **YouTube**.
+Ah, you've found my profile. How delightful.
+
+**Cosplayer + OSS dev** — costumes and commits, all in a day's work. I craft UIs, APIs, low-level toys... and occasionally, entire **AI comic pipelines** for YouTube.
+
+One does not simply build fox girl looks AND magical tooling, you see. It requires a certain... *intensity*.
 
 ```
-  🎭 localizer:  EN  ·  日本語  ·  Монгол
-  🔗 socials:    X/IG/Discord @kyuna0312
-  🌐 web:        kyuna-web.vercel.app
-  💻 github:     @kyuna0312
+  🎭 Languages:  EN  ·  日本語  ·  Монгол
+  🔗 Socials:    X/IG/Discord @kyuna0312
+  🌐 Web:        kyuna-web.vercel.app
+  💻 GitHub:     @kyuna0312
 ```
 
 ---
 
-## ⭐ Featured Projects
+## ✧ Featured Projects
 
 <p align="center">
   <a href="https://github.com/kyuna0312/dotfiles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kyuna0312&repo=dotfiles&bg_color=0d1117&title_color=ff61a0&text_color=c9d1d9&icon_color=ff61a0&border_color=30363d" alt="dotfiles" /></a>
@@ -85,26 +89,26 @@ Shipping UIs, APIs, and low-level toys; building fox girl looks and **AI comic p
 
 ```
   ┌─────────────────────────────────────────────────────────┐
-  │  ✧  PROJECT  LIST  ✧                                   │
+  │  ✦  PROJECT  LIST  ✦                                   │
   ├─────────────────────────────────────────────────────────┤
   │  🦊 dotfiles (17★)    │  Productive dev config         │
   │                       │  zsh · nvim · tmux · Claude   │
   │  🎀 NyanVim (6★)      │  Custom Neovim config          │
-  │                       │  cute aesthetics · Lua         │
-  │  🐾 nyanix_scratch    │  Toy operating system          │
+  │                       │  cute aesthetics · Lua        │
+  │  🐾 nyanix_scratch    │  Toy operating system           │
   │     _linux (5★)       │  C                             │
-  │  📝 Word2Vector       │  Mongolian word embeddings     │
+  │  📝 Word2Vector       │  Mongolian word embeddings    │
   │     Mongolia (6★)     │  CSS                           │
   │  🌸 kyuna_web         │  Portfolio site                │
-  │                       │  Next.js · Chakra UI · i18n    │
+  │                       │  Next.js · Chakra UI · i18n   │
   │  ✏️ InariWrite        │  Markdown editor               │
-  │                       │  Mongolian-first · TS/Rust     │
+  │                       │  Mongolian-first · TS/Rust    │
   └─────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 📊 Stats
+## ✧ Stats
 
 <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api/?username=kyuna0312&cc=0d1117&tc=ff61a0&ic=ff61a0&bc=161b22" alt="GitHub summary" />
@@ -127,7 +131,7 @@ Shipping UIs, APIs, and low-level toys; building fox girl looks and **AI comic p
 
 ---
 
-## 💫 Connect
+## ✧ Connect
 
 <p align="center">
   <a href="https://github.com/kyuna0312/kyuna0312">
@@ -135,10 +139,12 @@ Shipping UIs, APIs, and low-level toys; building fox girl looks and **AI comic p
   </a>
 </p>
 
+> "I've taken an interest in you. Do try to be useful." — The Queen of Night ♠
+
 <pre align="right"><code>kyuna0312@github:~$ █</code></pre>
 
 ---
 
 <p align="center">
-  <sub>Made with 🩷 and ☕ ·  Kyuna 0312 · 2024</sub>
+  <sub>Made with 🩷 and ☕ · Kyuna 0312 · 2024</sub>
 </p>
