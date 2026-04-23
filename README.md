@@ -23,6 +23,26 @@
 
 ### ▸ Terminal Ready
 
+```
+  ▸ Kyuna@dev ~/workspace
+  └ % whoami
+  ──────────────────────────────────────────────────────────────────
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  001 kyuna    500   0  512340  10240   1024 S  0.0   0.2   0:00.00 Languages
+  002 kyuna    500   0  512340  10240   1024 S  0.0   0.2   0:00.00 Frontend
+  003 kyuna    500   0  512340  10240   1024 S  0.0   0.2   0:00.00 Backend
+  004 kyuna    500   0  512340  10240   1024 S  0.0   0.2   0:00.00 DevOps
+  005 kyuna    500   0  512340  10240   1024 S  0.0   0.2   0:00.00 Tools
+  ──────────────────────────────────────────────────────────────────
+  Tasks: 5 shown, 0 running, 5 sleeping, 0 stopped, 0 zombie
+  Load average: 0.12 0.08 0.03    CPU(s): 2.5% user, 1.2% sys, 96.3% idle
+  Mem: 16384M total, 8192M used, 8192M free, 4096M buffers
+  Swp: 4096M total, 1024M used, 3072M free, 8192M cached
+  ```
+
+<details>
+<summary><b>Expand for details</b></summary>
+
 | SECTION | TECHNOLOGIES |
 |---------|-------------|
 | Languages | TypeScript, JavaScript, Rust, Go, Python, Lua |
@@ -30,6 +50,8 @@
 | Backend | Node.js, Go, Rust |
 | DevOps | Linux, Docker, GitHub Actions |
 | Tools | Neovim, tmux, zsh, Claude |
+
+</details>
 
 </div>
 
