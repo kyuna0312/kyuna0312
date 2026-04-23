@@ -59,17 +59,12 @@
 
 ## ▸ About
 
-```
-user@kyuna:~$ whoami
-> Multilingual dev (EN · 日本語 · Монгол)
-> AI comic pipeline architect
-> + OSS contributor @kyuna0312
-> cosplay ∞ code
-```
-
 - **AI Comics** — End-to-end pipelines for YouTube anime-style comics
 - **OSS Dev** — Neovim configs, dotfiles, developer tooling
 - **Cosplay + Code** — Building the aesthetic onecommit at a time
+
+> Multilingual dev (EN · 日本語 · Монгол) · AI comic pipeline architect
+> cosplay ∞ code
 
 ---
 
