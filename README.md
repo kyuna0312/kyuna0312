@@ -4,82 +4,54 @@
   <img src="img/IMG_7511.JPG" width="100%" alt="Kyuna — developer, creator, open source" />
 </a>
 
-<pre>
-╔══════════════════════════════════════════════════════════════════╗
-║  ✧･ﾟ: *✧･ﾟ:*  QUEEN OF NIGHT MODE  *:･ﾟ✧*:･ﾟ✧                   ║
-╚══════════════════════════════════════════════════════════════════╝
+<!-- Add Maya Yotsuba GIF: https://tenor.com/view/the-irregular-at-the-magic-highschool-yotsuba-maya-gif-3407082342534273912 -->
+<!-- Download and save to img/maya.gif, then uncomment below: -->
+<!-- <img src="img/maya.gif" width="400" alt="Queen of Night" /> -->
 
-      ∧＿∧
-     (｡･ω･)ﾉﾞ
-    / 🎀  🎀 \
-    |  fox girl  |
-     \_________/
+<h1>♠ QUEEN OF NIGHT MODE ♠</h1>
 
-   「 code · cosplay · chaos 」
+**Fox girl. Hacker. AI comic architect.**
 
-   ...Did you summon me?
-   Onee-san has arrived. ✦
-
-   ⚔️  cosplayer  ·  OSS dev  ·  AI comics  ·  YouTube  ⚔️
-   🦊  kitsune  ·  fox girl  · 中日蒙  ·  weeb coder  🦊
-
-╰─────────────────────────────────────────────────────────────╯
-</pre>
-
-[![YouTube](https://img.shields.io/badge/yt-@amarihana-0d1117?style=for-the-badge&logo=youtube&logoColor=ff0000)](https://www.youtube.com/@amarihana)
-[![X](https://img.shields.io/badge/x-kyuna0312-0d1117?style=for-the-badge&logo=x&logoColor=3fb950)](https://x.com/kyuna0312)
-[![Discord](https://img.shields.io/badge/discord-kyuna0312-0d1117?style=for-the-badge&logo=discord&logoColor=5865f2)](https://discord.gg/shiba)
-[![Instagram](https://img.shields.io/badge/ig-kyuna0312-0d1117?style=for-the-badge&logo=instagram&logoColor=ff61a0)](https://www.instagram.com/kyuna0312/)
-[![web](https://img.shields.io/badge/web-kyuna--web.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=3fb950)](https://kyuna-web.vercel.app/)
+[![YouTube](https://img.shields.io/badge/YouTube-@amarihana-0d1117?style=for-the-badge&logo=youtube&logoColor=ff0000)](https://www.youtube.com/@amarihana)
+[![X](https://img.shields.io/badge/X-@kyuna0312-0d1117?style=for-the-badge&logo=x&logoColor=3fb950)](https://x.com/kyuna0312)
+[![Discord](https://img.shields.io/badge/Discord-kyuna0312-0d1117?style=for-the-badge&logo=discord&logoColor=5865f2)](https://discord.gg/shiba)
+[![Instagram](https://img.shields.io/badge/Instagram-@kyuna0312-0d1117?style=for-the-badge&logo=instagram&logoColor=ff61a0)](https://www.instagram.com/kyuna0312/)
+[![Web](https://img.shields.io/badge/Web-kyuna--web.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=3fb950)](https://kyuna-web.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-@kyuna0312-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/kyuna0312)
 
 <br/>
 
-```
-  ┌───·  TECH STACK  ·──┐
-  │  🦊 TypeScript      │
-  │  ⚡ JavaScript      │
-  │  🦀 Rust            │
-  │  🔵 Go              │
-  │  🐍 Python          │
-  │  🌙 Lua             │
-  │  💚 Linux           │
-  └─────────────────────┘
-```
+### ▸ Terminal Ready
 
-<br/>
-
-<a href="https://github.com/kyuna0312">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=850&color=ff61a0&background=0D1117&center=true&vCenter=true&multiline=true&width=920&height=112&lines=cosplayer+%E2%9C%A8+open+source+dev+%E2%9C%A8+fox+girl;AI+comics+%2B+costumes+%2B+code;youtube+%40amarihana+%E2%9C%A8+github+%40kyuna0312" alt="Typing banner" />
-</a>
+| SECTION | TECHNOLOGIES |
+|---------|-------------|
+| Languages | TypeScript, JavaScript, Rust, Go, Python, Lua |
+| Frontend | React, Next.js, Chakra UI |
+| Backend | Node.js, Go, Rust |
+| DevOps | Linux, Docker, GitHub Actions |
+| Tools | Neovim, tmux, zsh, Claude |
 
 </div>
 
 ---
 
-## ✧ Profile Card
+## ▸ About
 
 ```
-   ╭─────────────────────────────────────────────╮
-   │  ☽  MAGICAL  PROFILE  カード  ♡              │
-   ╰─────────────────────────────────────────────╯
+user@kyuna:~$ whoami
+> Multilingual dev (EN · 日本語 · Монгол)
+> AI comic pipeline architect
+> + OSS contributor @kyuna0312
+> cosplay ∞ code
 ```
 
-Ah, you've found my profile. How delightful.
-
-**Cosplayer + OSS dev** — costumes and commits, all in a day's work. I craft UIs, APIs, low-level toys... and occasionally, entire **AI comic pipelines** for YouTube.
-
-One does not simply build fox girl looks AND magical tooling, you see. It requires a certain... *intensity*.
-
-```
-  🎭 Languages:  EN  ·  日本語  ·  Монгол
-  🔗 Socials:    X/IG/Discord @kyuna0312
-  🌐 Web:        kyuna-web.vercel.app
-  💻 GitHub:     @kyuna0312
-```
+- **AI Comics** — End-to-end pipelines for YouTube anime-style comics
+- **OSS Dev** — Neovim configs, dotfiles, developer tooling
+- **Cosplay + Code** — Building the aesthetic onecommit at a time
 
 ---
 
-## ✧ Featured Projects
+## ▸ Featured Projects
 
 <p align="center">
   <a href="https://github.com/kyuna0312/dotfiles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kyuna0312&repo=dotfiles&bg_color=0d1117&title_color=ff61a0&text_color=c9d1d9&icon_color=ff61a0&border_color=30363d" alt="dotfiles" /></a>
@@ -87,31 +59,19 @@ One does not simply build fox girl looks AND magical tooling, you see. It requir
   <a href="https://github.com/kyuna0312/InariWrite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kyuna0312&repo=InariWrite&bg_color=0d1117&title_color=ff61a0&text_color=c9d1d9&icon_color=ff61a0&border_color=30363d" alt="InariWrite" /></a>
 </p>
 
-```
-  ┌─────────────────────────────────────────────────────────┐
-  │  ✦  PROJECT  LIST  ✦                                   │
-  ├─────────────────────────────────────────────────────────┤
-  │  🦊 dotfiles (17★)    │  Productive dev config         │
-  │                       │  zsh · nvim · tmux · Claude   │
-  │  🎀 NyanVim (6★)      │  Custom Neovim config          │
-  │                       │  cute aesthetics · Lua        │
-  │  🐾 nyanix_scratch    │  Toy operating system           │
-  │     _linux (5★)       │  C                             │
-  │  📝 Word2Vector       │  Mongolian word embeddings    │
-  │     Mongolia (6★)     │  CSS                           │
-  │  🌸 kyuna_web         │  Portfolio site                │
-  │                       │  Next.js · Chakra UI · i18n   │
-  │  ✏️ InariWrite        │  Markdown editor               │
-  │                       │  Mongolian-first · TS/Rust    │
-  └─────────────────────────────────────────────────────────┘
-```
+| Project | ★ | Stack | Description |
+|--------|---|-------|-------------|
+| [dotfiles](https://github.com/kyuna0312/dotfiles) | 17 | zsh · nvim · tmux | Productive dev environment |
+| [NyanVim](https://github.com/kyuna0312/NyanVim) | 6 | Lua | Custom Neovim config |
+| [nyanix_scratch_linux](https://github.com/kyuna0312/nyanix_scratch_linux) | 5 | C | Toy OS |
+| [Word2VectorMongolia](https://github.com/kyuna0312/Word2VectorMongolia) | 6 | CSS | Mongolian word embeddings |
+| [InariWrite](https://github.com/kyuna0312/InariWrite) | — | TS/Rust | Markdown editor: Mongolian-first |
+| [kyuna_web](https://github.com/kyuna0312/kyuna_web) | — | Next.js | Portfolio: Next.js, Chakra UI, i18n |
 
 ---
 
-## ✧ Stats
-
 <p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api/?username=kyuna0312&cc=0d1117&tc=ff61a0&ic=ff61a0&bc=161b22" alt="GitHub summary" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kyuna0312&bg_color=0d1117&color=ff61a0&line=ff61a0&point=ff61a0&area=true&area_color=ff61a0&hide_border=true" alt="Activity graph" />
 </p>
 
 <p align="center">
@@ -120,7 +80,7 @@ One does not simply build fox girl looks AND magical tooling, you see. It requir
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kyuna0312&bg_color=0d1117&color=ff61a0&line=ff61a0&point=ff61a0&area=true&area_color=ff61a0&hide_border=true" alt="Activity graph" />
+  <img src="https://github-stats-alpha.vercel.app/api/?username=kyuna0312&cc=0d1117&tc=ff61a0&ic=ff61a0&bc=161b22" alt="GitHub summary" />
 </p>
 
 <p align="center">
@@ -131,20 +91,16 @@ One does not simply build fox girl looks AND magical tooling, you see. It requir
 
 ---
 
-## ✧ Connect
+## ▸ Connect
+
+<a href="https://github.com/kyuna0312/kyuna0312">
+  <img src="https://komarev.com/ghpvc/?username=kyuna0312&label=profile%20views&color=ff61a0&style=flat" alt="Profile views" />
+</a>
+
+> *"I've taken an interest in you. Do try to be useful."* — The Queen ♠
+
+<pre><code kyuna0312@github:~$ █</code></pre>
 
 <p align="center">
-  <a href="https://github.com/kyuna0312/kyuna0312">
-    <img src="https://komarev.com/ghpvc/?username=kyuna0312&label=profile%20views&color=ff61a0&style=flat" alt="Profile views" />
-  </a>
-</p>
-
-> "I've taken an interest in you. Do try to be useful." — The Queen of Night ♠
-
-<pre align="right"><code>kyuna0312@github:~$ █</code></pre>
-
----
-
-<p align="center">
-  <sub>Made with 🩷 and ☕ · Kyuna 0312 · 2024</sub>
+  <sub>Kyuna 0312 · 2017-present</sub>
 </p>
