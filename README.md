@@ -4,7 +4,7 @@
   <img src="img/IMG_7511.JPG" width="100%" alt="Kyuna — developer, creator, open source" />
 </a>
 
-<pre align="center">
+<pre>
 ┌────────────────────────────────────────────────────────┐
 │                      /\       /\                       │
 │                      (  ^ w ^  )                       │
@@ -41,54 +41,36 @@
 
 ---
 
-## `$ cat ./identity.txt`
+## About Me
 
-Cosplayer + OSS dev — costumes and commits in the same timeline.  
-Shipping UIs, APIs, and low-level toys; also building fox girl looks and **AI comic pipelines** on **YouTube**.  
-The aesthetic and the infrastructure are one stack.
+**Cosplayer + OSS dev** — costumes and commits in the same timeline.  
+Shipping UIs, APIs, and low-level toys; building fox girl looks and **AI comic pipelines** on **YouTube**.  
 
 `locales:` **EN** · **日本語** · **MN**  
-`links:` X/IG/Discord **`kyuna0312`** · site [kyuna-web.vercel.app](https://kyuna-web.vercel.app/) · code [@kyuna0312](https://github.com/kyuna0312)
+`links:` X/IG/Discord **`kyuna0312`** · [kyuna-web.vercel.app](https://kyuna-web.vercel.app/) · [@kyuna0312](https://github.com/kyuna0312)
 
 ---
 
-## `$ tree -L 1 ./build`
-
-```text
-./build
-├── product/      # TS/JS apps, portfolio → kyuna-web.vercel.app
-├── backend/      # Go services, APIs, automation, dotfiles
-├── systems/      # Rust/C — OS-adjacent toys, bootloaders, engines
-├── creative/     # AI comic tooling, editors, idea → panel faster
-└── cosplay/      # build logs, prop files, costume references
-```
-
----
-
-## `$ opensource --help`
-
-- **`--issues`** · watch for `good first issue` / `help wanted`
-- **`--pr`** · small diffs + clear *why* > giant drive-by refactors
-- **`--shoutout`** · fork something here? @ me — I like seeing it in the wild
-
-**Recruiters:** start at [kyuna-web.vercel.app](https://kyuna-web.vercel.app/), then **featured repos** below.
-
----
-
-## `$ gh repo list --featured`
+## Featured Projects
 
 <p align="center">
-  <a href="https://github.com/kyuna0312/kyuna_web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kyuna0312&repo=kyuna_web&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&icon_color=3fb950&border_color=30363d" alt="kyuna_web" /></a>
-  &#8287;&#8287;
   <a href="https://github.com/kyuna0312/dotfiles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kyuna0312&repo=dotfiles&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&icon_color=3fb950&border_color=30363d" alt="dotfiles" /></a>
-</p>
-<p align="center">
+  <a href="https://github.com/kyuna0312/kyuna_web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kyuna0312&repo=kyuna_web&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&icon_color=3fb950&border_color=30363d" alt="kyuna_web" /></a>
   <a href="https://github.com/kyuna0312/InariWrite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kyuna0312&repo=InariWrite&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&icon_color=3fb950&border_color=30363d" alt="InariWrite" /></a>
 </p>
 
+| Project | Description | Lang |
+|---|---|---|
+| [dotfiles](https://github.com/kyuna0312/dotfiles) (17★) | Productive dev config for weeb gurls — zsh, nvim, tmux, Claude Code | Shell |
+| [NyanVim](https://github.com/kyuna0312/NyanVim) (6★) | Custom Neovim config with cute aesthetics | Lua |
+| [nyanix_scratch_linux](https://github.com/kyuna0312/nyanix_scratch_linux) (5★) | Toy operating system | C |
+| [Word2VectorMongolia](https://github.com/kyuna0312/Word2VectorMongolia) (6★) | Mongolian word embeddings | CSS |
+| [kyuna_web](https://github.com/kyuna0312/kyuna_web) | Personal portfolio site (Next.js, Chakra UI, i18n) | TS |
+| [InariWrite](https://github.com/kyuna0312/InariWrite) | Open-source Markdown editor — Mongolian-first | TS/Rust |
+
 ---
 
-## `$ ./stats.sh --public`
+## Stats
 
 <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api/?username=kyuna0312&cc=0d1117&tc=3fb950&ic=3fb950&bc=161b22" alt="GitHub summary" />
@@ -96,7 +78,6 @@ The aesthetic and the infrastructure are one stack.
 
 <p align="center">
   <img height="180" src="https://streak-stats.demolab.com/?user=kyuna0312&theme=dark&background=0D1117&border=30363D&stroke=30363D&ring=3FB950&fire=238636&currStreakNum=3FB950&sideNums=8B949E&currStreakLabel=3FB950&sideLabels=8B949E&dates=8B949E&include_all_commits=true&count_private=true" alt="Streak" />
-  &#8287;&#8287;
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyuna0312&layout=compact&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&border_color=30363d" alt="Languages" />
 </p>
 
@@ -111,5 +92,13 @@ The aesthetic and the infrastructure are one stack.
 </p>
 
 ---
+
+## Connect
+
+<p align="center">
+  <a href="https://github.com/kyuna0312/kyuna0312">
+    <img src="https://komarev.com/ghpvc/?username=kyuna0312&label=profile%20views&color=3fb950&style=flat" alt="Profile views" />
+  </a>
+</p>
 
 <pre align="right"><code>kyuna0312@github:~$ █</code></pre>
