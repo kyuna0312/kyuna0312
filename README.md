@@ -88,17 +88,6 @@ PostgreSQL · MySQL · GraphQL · Docker · Neovim · tmux · zsh
 | [research-embedded](https://github.com/kyuna0312/research-embedded) | Embedded systems research |
 | [sandbox](https://github.com/kyuna0312/sandbox) | Experimental playground |
 
-### 📦 Archive
-<details>
-<summary>Archive — Inactive Projects</summary>
-
-| Project | Description |
-|---------|-------------|
-| [legacy-v1](https://github.com/kyuna0312/legacy-v1) | Previous system iteration |
-| [archived-tools](https://github.com/kyuna0312/archived-tools) | Deprecated tooling |
-
-</details>
-
 ---
 
 ## ⚔️ Featured Projects
