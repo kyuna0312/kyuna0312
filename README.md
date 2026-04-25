@@ -1,14 +1,8 @@
 <div align="center">
 
-<a href="https://kyuna-web.vercel.app/">
-  <img src="img/IMG_7511.JPG" width="100%" alt="Kyuna — developer, creator, open source" />
-</a>
+# ❄️ AmariHana
 
----
-
-# ❄️ KYUNA0312 / AMARIHANA
-
-### Strategic Developer · System Architect · Silent Execution
+**Embedded Engineer · Frontend Engineer · System Architect**
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -16,107 +10,148 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-[![GitHub](https://img.shields.io/badge/GitHub-@kyuna0312-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/kyuna0312)
-[![X](https://img.shields.io/badge/X-@kyuna0312-0d1117?style=for-the-badge&logo=x&logoColor=3fb950)](https://x.com/kyuna0312)
-[![YouTube](https://img.shields.io/badge/YouTube-@amarihana-0d1117?style=for-the-badge&logo=youtube&logoColor=ff0000)](https://www.youtube.com/@amarihana)
-[![Web](https://img.shields.io/badge/Web-kyuna--web.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=3fb950)](https://kyuna-web.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kyuna0312)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/kyuna0312)
+[![Web](https://img.shields.io/badge/Web-kyuna--web.vercel.app-0d1117?style=flat&logo=vercel&logoColor=white)](https://kyuna-web.vercel.app/)
 
 </div>
 
 ---
 
-## ⚡ SYSTEM ABILITIES
+## ❄️ Profile
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│  [LANGUAGES]          TypeScript · Rust · Go · Python · Lua │
-│  [FRONTEND]           React · Next.js · Vite · Tailwind      │
-│  [BACKEND]            NestJS · Spring Boot · Node.js         │
-│  [DATA]               PostgreSQL · MySQL · GraphQL           │
-│  [INFRA]              Linux · Docker · GitHub Actions        │
-│  [TOOLS]              Neovim · tmux · zsh                    │
-└─────────────────────────────────────────────────────────────┘
+IDENTITY:    AmariHana (kyuna0312)
+ROLE:       Systems Architect
+FOCUS:      Low-level systems × Web infrastructure × AI workflow
+STATUS:     Active development
+```
+
+Embedded and frontend engineer specializing in systems architecture. Building robust foundations — from VCS tooling to full-stack web systems.
+
+---
+
+## ⚡ Abilities
+
+### 🧊 Core Languages
+```
+TypeScript · Rust · Go · C++ · Python · Lua
+```
+
+### 🧠 Frameworks
+```
+React · Next.js · Vite · NestJS · Spring Boot
+```
+
+### ⚙️ Systems & Tools
+```
+Custom monorepo tooling · VCS architecture · Embedded Linux
+PostgreSQL · MySQL · GraphQL · Docker · GitHub Actions
+Neovim · tmux · zsh
 ```
 
 ---
 
-## 🧊 CURRENT OPERATIONS
+## 🜂 Organizations
 
-| Mission | Status | Classification |
-|---------|--------|---------------|
-| [kyuna_web](https://github.com/kyuna0312/kyuna_web) | Active | Portfolio · Next.js · i18n |
-| [InariWrite](https://github.com/kyuna0312/InariWrite) | Active | AI Comic Pipeline · TS/Rust |
-| [dotfiles](https://github.com/kyuna0312/dotfiles) | Active | Developer Environment |
-| [NyanVim](https://github.com/kyuna0312/NyanVim) | Active | Neovim Configuration |
-
----
-
-## 🜂 SYSTEM ARCHITECTURE
-
-```
-                        ┌──────────────┐
-                        │   FRONTEND   │
-                        │  React/Vite  │
-                        │  TailwindCSS │
-                        └──────┬───────┘
-                               │
-                        ┌──────▼───────┐
-                        │    API GW    │
-                        │   NestJS /   │
-                        │  Spring Boot │
-                        └──────┬───────┘
-                               │
-        ┌──────────────────────┼──────────────────────┐
-        │                      │                      │
- ┌──────▼───────┐        ┌─────▼─────┐         ┌──────▼──────┐
- │  PostgreSQL  │        │   GraphQL │         │    MySQL    │
- │   Primary    │        │  Gateway  │         │  Secondary  │
- └──────────────┘        └───────────┘         └─────────────┘
-```
+| Organization | Purpose |
+|--------------|----------|
+| [kyuna_web](https://github.com/kyuna0312/kyuna_web) | TypeScript/JavaScript applications |
+| [dotfiles](https://github.com/kyuna0312/dotfiles) | Configuration management |
+| [InariWrite](https://github.com/kyuna0312/InariWrite) | AI-assisted comic creation tooling |
 
 ---
 
-## ❄️ OPERATIONAL METRICS
+## 🧬 Project Archive
+
+### ⚔️ Core Systems
+| Project | Description |
+|---------|-------------|
+| [kit-vcs](https://github.com/kyuna0312/kit-vcs) | Custom VCS implementation |
+| [custom-monorepo](https://github.com/kyuna0312/custom-monorepo) | Monorepo tooling system |
+
+### 🧠 AI / Workflow Systems
+| Project | Description |
+|---------|-------------|
+| [InariWrite](https://github.com/kyuna0312/InariWrite) | AI comic pipeline (TS/Rust) |
+| [ai-workflow](https://github.com/kyuna0312/ai-workflow) | AI-assisted dev pipeline |
+
+### 🌐 Web Systems
+| Project | Description |
+|---------|-------------|
+| [kyuna_web](https://github.com/kyuna0312/kyuna_web) | Portfolio · Next.js · i18n |
+| [NyanVim](https://github.com/kyuna0312/NyanVim) | Neovim configuration |
+| [api-gateway](https://github.com/kyuna0312/api-gateway) | NestJS API gateway |
+
+### 🧪 Experimental
+| Project | Description |
+|---------|-------------|
+| [research-embedded](https://github.com/kyuna0312/research-embedded) | Embedded systems research |
+| [sandbox](https://github.com/kyuna0312/sandbox) | Experimental playground |
+
+### 📦 Archive
+<details>
+<summary>Archive — Inactive Projects</summary>
+
+| Project | Description |
+|---------|-------------|
+| [legacy-v1](https://github.com/kyuna0312/legacy-v1) | Previous system iteration |
+| [archived-tools](https://github.com/kyuna0312/archived-tools) | Deprecated tooling |
+
+</details>
+
+---
+
+## ⚔️ Featured Projects
 
 <p align="center">
-  <img height="150" src="https://streak-stats.demolab.com/?user=kyuna0312&theme=dark&background=0D1117&border=30363D&stroke=30363D&ring=3fb950&fire=3fb950&currStreakNum=3fb950&sideNums=8B949E&currStreakLabel=3fb950&sideLabels=8B949E&dates=8B949E&include_all_commits=true&count_private=true" alt="Streak" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyuna0312&layout=compact&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&border_color=30363d" alt="Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kyuna0312&bg_color=0d1117&color=3fb950&line=3fb950&point=3fb950&area=true&area_color=3fb950&hide_border=true" alt="Activity graph" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kyuna0312&theme=darkhub&margin-w=2&margin-h=2&column=4" alt="Trophies" />
+  <a href="https://github.com/kyuna0312/kit-vcs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kyuna0312&repo=kit-vcs&theme=transparent&hide_border=true" />
+  </a>
+  <a href="https://github.com/kyuna0312/kyuna_web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kyuna0312&repo=kyuna_web&theme=transparent&hide_border=true" />
   </a>
 </p>
 
 ---
 
-## 🧬 IDENTITY
+## ❄️ GitHub Stats
 
-> *"I don't chase trends. I build systems that outlive them."*
-> 
-> Multilingual · EN · 日本語 · Монгол
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kyuna0312&theme=transparent&hide_border=true&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyuna0312&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyuna0312&layout=compact&theme=transparent&hide_border=true" alt="Languages" />
+</p>
 
 ---
 
-## 🔗 ACCESS POINTS
+## 🧬 Philosophy
 
-[![GitHub](https://img.shields.io/badge/GitHub-@kyuna0312-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/kyuna0312)
-[![X](https://img.shields.io/badge/X-@kyuna0312-0d1117?style=for-the-badge&logo=x&logoColor=3fb950)](https://x.com/kyuna0312)
-[![Discord](https://img.shields.io/badge/Discord-kyuna0312-0d1117?style=for-the-badge&logo=discord&logoColor=5865f2)](https://discord.gg/shiba)
+> *"I don't chase trends. I build systems that outlive them."*
 
-<a href="https://github.com/kyuna0312/kyuna0312">
-  <img src="https://komarev.com/ghpvc/?username=kyuna0312&label=profile%20views&color=3fb950&style=flat" alt="Profile views" />
-</a>
+> *Architecture is not about features. It's about control.*
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
-<pre><code kyuna0312@system:~$ █</code></pre>
+## 🔗 Contact
 
 <p align="center">
-  <sub>Kyuna 0312 · 2017-present</sub>
+  <a href="https://github.com/kyuna0312">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://x.com/kyuna0312">
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+<sub>❄️ AmariHana — Systems Architect ❄️</sub>
 </p>
