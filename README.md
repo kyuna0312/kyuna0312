@@ -74,13 +74,15 @@ PostgreSQL · MySQL · GraphQL · Docker · Neovim · tmux · zsh
 |---------|-------------|
 | [InariWrite](https://github.com/kyuna0312/InariWrite) | AI comic pipeline (TS/Rust) |
 | [ai-workflow](https://github.com/kyuna0312/ai-workflow) | AI-assisted dev pipeline |
+| [NyanVim](https://github.com/kyuna0312/NyanVim) | Neovim configuration |
+
 
 ### 🌐 Web Systems
 | Project | Description |
 |---------|-------------|
 | [kyuna_web](https://github.com/kyuna0312/kyuna_web) | Portfolio · Next.js · i18n |
-| [NyanVim](https://github.com/kyuna0312/NyanVim) | Neovim configuration |
-| [api-gateway](https://github.com/kyuna0312/api-gateway) | NestJS API gateway |
+| [kyuna_web](https://github.com/kyuna0312/LogicNomad)| MonoRepo · Vite React  Nest.js · i18n |
+| [kyuna_web](https://github.com/kyuna0312/madoka) | Sass · React |
 
 ### 🧪 Experimental
 | Project | Description |
@@ -99,15 +101,21 @@ PostgreSQL · MySQL · GraphQL · Docker · Neovim · tmux · zsh
   <a href="https://github.com/kyuna0312/kyuna_web">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kyuna0312&repo=kyuna_web&theme=transparent&hide_border=true" />
   </a>
+  <a href="https://github.com/hunnu-labs/hunnu-lang">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hunnu-labs&repo=hunnu-lang&theme=transparent&hide_border=true" />
+  </a>
+  <a href="https://github.com/kyuna0312/NyanVim">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kyuna0312&repo=NyanVim&theme=transparent&hide_border=true" />
+  </a>
 </p>
 
 ---
 
 ## ❄️ GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kyuna0312&theme=transparent&hide_border=true&show_icons=true" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyuna0312&theme=transparent&hide_border=true" />
