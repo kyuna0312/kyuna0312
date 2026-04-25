@@ -1,8 +1,8 @@
 <div align="center">
 
-# ❄️ AmariHana
+# ❄️ Kyuna0312
 
-**Embedded Engineer · Frontend Engineer · System Architect**
+**Embedded Engineer · Fullstacl Engineer · System Architect**
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -21,13 +21,13 @@
 ## ❄️ Profile
 
 ```
-IDENTITY:    AmariHana (kyuna0312)
+IDENTITY:   Kyuna (kyuna0312)
 ROLE:       Systems Architect
 FOCUS:      Low-level systems × Web infrastructure × AI workflow
 STATUS:     Active development
 ```
 
-Embedded and frontend engineer specializing in systems architecture. Building robust foundations — from VCS tooling to full-stack web systems.
+Embedded and fullstack engineer specializing in systems architecture. Building robust foundations — from VCS tooling to full-stack web systems.
 
 ---
 
@@ -35,7 +35,7 @@ Embedded and frontend engineer specializing in systems architecture. Building ro
 
 ### 🧊 Core Languages
 ```
-TypeScript · Rust · Go · C++ · Python · Lua
+TypeScript · Rust · Go · C++/C · Python · Lua
 ```
 
 ### 🧠 Frameworks
@@ -46,8 +46,7 @@ React · Next.js · Vite · NestJS · Spring Boot
 ### ⚙️ Systems & Tools
 ```
 Custom monorepo tooling · VCS architecture · Embedded Linux
-PostgreSQL · MySQL · GraphQL · Docker · GitHub Actions
-Neovim · tmux · zsh
+PostgreSQL · MySQL · GraphQL · Docker · Neovim · tmux · zsh
 ```
 
 ---
