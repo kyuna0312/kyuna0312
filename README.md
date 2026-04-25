@@ -2,7 +2,7 @@
 
 # ❄️ Kyuna0312
 
-**Embedded Engineer · Fullstacl Engineer · System Architect**
+**Embedded Engineer · Fullstack Engineer · System Architect**
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -40,7 +40,7 @@ TypeScript · Rust · Go · C++/C · Python · Lua
 
 ### 🧠 Frameworks
 ```
-React · Next.js · Vite · NestJS · Spring Boot
+React · Next.js · Vite · NestJS · Spring Boot · Laravel
 ```
 
 ### ⚙️ Systems & Tools
