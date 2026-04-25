@@ -152,5 +152,5 @@ PostgreSQL · MySQL · GraphQL · Docker · Neovim · tmux · zsh
 ---
 
 <p align="center">
-<sub>❄️ AmariHana — Systems Architect ❄️</sub>
+<sub>❄️ Kyuna — Systems Architect ❄️</sub>
 </p>
