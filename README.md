@@ -129,7 +129,7 @@ PostgreSQL · MySQL · GraphQL · Docker · Neovim · tmux · zsh
 
 ## 🧬 Philosophy
 
-> *"I don't chase trends. I build systems that outlive them."*
+> *"I don't chase trends. I build systems that outlive them xD."*
 
 > *Architecture is not about features. It's about control.*
 
